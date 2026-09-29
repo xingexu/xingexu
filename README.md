@@ -1,8 +1,8 @@
 <img src="assets/name.svg" width="420" alt="Xinge Xu" />
 
-[Check out what I'm building →](https://www.xinge.ca)
+<a href="https://www.xinge.ca"><img src="assets/building.svg" width="294" alt="Check out what I'm building →" /></a>
 
-I'm a 1st-year student @ Western.
+1st-year **Western CS student + Ivey AEO**.
 
 **Here are some clubs im on!**
 - **Western Founders Network (WFN)** -> Projects Director
