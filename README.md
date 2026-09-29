@@ -4,6 +4,6 @@
 
 I'm a 1st-year student @ Western.
 
-**Clubs**
-- **Western Founders Network (WFN)** — Projects Director
-- **Western Chinese Students Association (CSA)** — Productions Executive
+**Here are some clubs im on!**
+- **Western Founders Network (WFN)** -> Projects Director
+- **Western Chinese Students Association (CSA)** -> Productions Executive
